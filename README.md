@@ -44,10 +44,6 @@ The raw data was cleaned, transformed, merged, and modeled into a single analyti
 
 ## Dashboard Pages
 
-### Executive Summary
-
-Provides a concise overview of the most important business findings and strategic recommendations derived from the complete analysis.
-
 ### Executive Dashboard
 
 Presents executive-level KPIs together with high-level performance trends, including:
@@ -62,6 +58,7 @@ Presents executive-level KPIs together with high-level performance trends, inclu
 - Top Product Categories by Products Sold
 - Monthly Revenue Trend
 - Monthly Orders Trend
+- ![Executive Dashboard](Executive%20Dashboard.png)
 
 ### Product Performance
 
@@ -72,6 +69,7 @@ Analyzes product performance using multiple business perspectives, including:
 - Revenue vs Customer Rating
 - Payment Methods Distribution
 - Revenue by Payment Method
+- ![Product Performance](Product%20Performance.png)
 
 ### Customer Insights
 
@@ -81,6 +79,7 @@ Provides analysis of customer satisfaction and purchasing behavior through:
 - Delivery Performance
 - Average Delivery Days by Customer Rating
 - Orders by Weekday
+- ![Customer Insights](Customer%20Insights.png)
 
 ### Geographic Analysis
 
@@ -90,6 +89,12 @@ Evaluates regional business performance across Brazil using:
 - Top States by Revenue
 - Top States by Customers
 - Top States by Average Revenue per Customer
+- ![Geographic Analysis](Geographic%20Analysis.png)
+
+### Executive Summary
+
+Provides a concise overview of the most important business findings and strategic recommendations derived from the complete analysis.
+![Executive Summary](Executive%20Summary.png)
 
 ---
 
